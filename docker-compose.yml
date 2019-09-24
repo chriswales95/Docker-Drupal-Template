@@ -1,0 +1,23 @@
+version: '3'
+services:
+  db:
+    build: db/.
+    restart: always
+    command: --default-authentication-plugin=mysql_native_password
+    environment:
+      - MYSQL_ROOT_PASSWORD=${DB_PASS}
+      - MYSQL_USER=${DB_USER}
+      - MYSQL_PASSWORD=${DB_PASS}
+      - MYSQL_DATABASE=${DB_NAME}
+
+  web:
+    build: .
+    restart: always
+    volumes:
+      - fullexample-sync:/var/www/html:nocopy
+    ports: 
+      - "80:80"
+
+volumes:
+  fullexample-sync:
+    external: true

@@ -1,0 +1,288 @@
+          ok  Starting native_osx for sync fullexample-sync
+          ok  fullexample-sync container still running, restarting unison in container
+unison: stopped
+unison: started
+     success  Sync container started
+     success  Showing unison logs from your sync container: fullexample-sync
+[2019-09-24 22:36:40 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:36:40.82 on 24 Sep 2019
+[2019-09-24 22:36:40 +0100] Sync Log:  [BGN] Updating file README.md from /host_sync to /app_sync
+[2019-09-24 22:36:40 +0100] Sync Log:  [END] Updating file README.md
+[2019-09-24 22:36:40 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:36:40.83 on 24 Sep 2019
+[2019-09-24 22:36:40 +0100] Sync Log:  Synchronization complete at 22:36:40  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:37:47 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:37:47.12 on 24 Sep 2019
+[2019-09-24 22:37:47 +0100] Sync Log:  [BGN] Copying config from /app_sync to /host_sync
+[2019-09-24 22:37:47 +0100] Sync Log:  [END] Copying config
+[2019-09-24 22:37:47 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:37:47.12 on 24 Sep 2019
+[2019-09-24 22:37:47 +0100] Sync Log:  Synchronization complete at 22:37:47  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:37:51 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:37:51.35 on 24 Sep 2019
+[2019-09-24 22:37:51 +0100] Sync Log:  [BGN] Copying config/sync from /app_sync to /host_sync
+[2019-09-24 22:37:51 +0100] Sync Log:  [END] Copying config/sync
+[2019-09-24 22:37:51 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:37:51.35 on 24 Sep 2019
+[2019-09-24 22:37:51 +0100] Sync Log:  Synchronization complete at 22:37:51  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:37:59 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:37:59.66 on 24 Sep 2019
+[2019-09-24 22:37:59 +0100] Sync Log:  [BGN] Copying properties for config from /app_sync to /host_sync
+[2019-09-24 22:37:59 +0100] Sync Log:  [END] Copying properties for config
+[2019-09-24 22:37:59 +0100] Sync Log:  [BGN] Copying properties for config/sync from /app_sync to /host_sync
+[2019-09-24 22:37:59 +0100] Sync Log:  [END] Copying properties for config/sync
+[2019-09-24 22:37:59 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:37:59.67 on 24 Sep 2019
+[2019-09-24 22:37:59 +0100] Sync Log:  Synchronization complete at 22:37:59  (2 items transferred, 0 skipped, 0 failed)
+[2019-09-24 22:38:54 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:38:54.15 on 24 Sep 2019
+[2019-09-24 22:38:54 +0100] Sync Log:  [BGN] Copying config/sync/README.txt from /app_sync to /host_sync
+[2019-09-24 22:38:54 +0100] Sync Log:  [END] Copying config/sync/README.txt
+[2019-09-24 22:38:54 +0100] Sync Log:  [BGN] Updating file web/sites/default/settings.php from /app_sync to /host_sync
+[2019-09-24 22:38:54 +0100] Sync Log:  [END] Updating file web/sites/default/settings.php
+[2019-09-24 22:38:54 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:38:54.17 on 24 Sep 2019
+[2019-09-24 22:38:54 +0100] Sync Log:  Synchronization complete at 22:38:54  (2 items transferred, 0 skipped, 0 failed)
+[2019-09-24 22:38:55 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:38:55.30 on 24 Sep 2019
+[2019-09-24 22:38:55 +0100] Sync Log:  [BGN] Copying config/sync/.htaccess from /app_sync to /host_sync
+[2019-09-24 22:38:55 +0100] Sync Log:  [END] Copying config/sync/.htaccess
+[2019-09-24 22:38:55 +0100] Sync Log:  [BGN] Copying web/sites/default/files/.htaccess from /app_sync to /host_sync
+[2019-09-24 22:38:55 +0100] Sync Log:  [END] Copying web/sites/default/files/.htaccess
+[2019-09-24 22:38:55 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:38:55.31 on 24 Sep 2019
+[2019-09-24 22:38:55 +0100] Sync Log:  Synchronization complete at 22:38:55  (2 items transferred, 0 skipped, 0 failed)
+[2019-09-24 22:38:57 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:38:57.45 on 24 Sep 2019
+[2019-09-24 22:38:57 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php from /app_sync to /host_sync
+[2019-09-24 22:38:57 +0100] Sync Log:  [END] Copying web/sites/default/files/php
+[2019-09-24 22:38:57 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:38:57.53 on 24 Sep 2019
+[2019-09-24 22:38:57 +0100] Sync Log:  Synchronization complete at 22:38:57  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:39:18 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:39:18.47 on 24 Sep 2019
+[2019-09-24 22:39:18 +0100] Sync Log:  [BGN] Copying web/sites/default/files/styles from /app_sync to /host_sync
+[2019-09-24 22:39:18 +0100] Sync Log:  [END] Copying web/sites/default/files/styles
+[2019-09-24 22:39:18 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:39:18.48 on 24 Sep 2019
+[2019-09-24 22:39:18 +0100] Sync Log:  Synchronization complete at 22:39:18  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:39:28 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:39:28.78 on 24 Sep 2019
+[2019-09-24 22:39:28 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_input.html.twig_kDCAMdm7NVSlVU2eiQw9br6R1 from /app_sync to /host_sync
+[2019-09-24 22:39:28 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_input.html.twig_kDCAMdm7NVSlVU2eiQw9br6R1
+[2019-09-24 22:39:28 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:39:28.79 on 24 Sep 2019
+[2019-09-24 22:39:28 +0100] Sync Log:  Synchronization complete at 22:39:28  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:39:29 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:39:29.92 on 24 Sep 2019
+[2019-09-24 22:39:29 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_container.html.twig_J7BR166na7tYaf4iNYff__077 from /app_sync to /host_sync
+[2019-09-24 22:39:29 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_container.html.twig_J7BR166na7tYaf4iNYff__077
+[2019-09-24 22:39:29 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_fieldset.html.twig_Ozwi2FsR61F4NFqHv60FwY2B8 from /app_sync to /host_sync
+[2019-09-24 22:39:29 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_fieldset.html.twig_Ozwi2FsR61F4NFqHv60FwY2B8
+[2019-09-24 22:39:29 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_form-element-label.html.t_ZSi_3TqT0ZWYxIn7KGrLr_lET from /app_sync to /host_sync
+[2019-09-24 22:39:29 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_form-element-label.html.t_ZSi_3TqT0ZWYxIn7KGrLr_lET
+[2019-09-24 22:39:29 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_form-element.html.twig_-NXov88ByeNdQWJ5-lOasDmSP from /app_sync to /host_sync
+[2019-09-24 22:39:29 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_form-element.html.twig_-NXov88ByeNdQWJ5-lOasDmSP
+[2019-09-24 22:39:29 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_form.html.twig_pYbmH2iic97XpfJQ3NZTO1GRO from /app_sync to /host_sync
+[2019-09-24 22:39:29 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_form.html.twig_pYbmH2iic97XpfJQ3NZTO1GRO
+[2019-09-24 22:39:29 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_select.html.twig_0jelU1MU533YXt9s-gxLeit49 from /app_sync to /host_sync
+[2019-09-24 22:39:29 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_select.html.twig_0jelU1MU533YXt9s-gxLeit49
+[2019-09-24 22:39:29 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_status-messages.html.twig_9foqouP-mx17eRljJr-JlFbyU from /app_sync to /host_sync
+[2019-09-24 22:39:29 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_status-messages.html.twig_9foqouP-mx17eRljJr-JlFbyU
+[2019-09-24 22:39:29 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:39:29.98 on 24 Sep 2019
+[2019-09-24 22:39:30 +0100] Sync Log:  Synchronization complete at 22:39:30  (7 items transferred, 0 skipped, 0 failed)
+[2019-09-24 22:39:59 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:39:58.86 on 24 Sep 2019
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--search-form-block._6J6cw3jdlr5GWy5d419i-rIIY from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--search-form-block._6J6cw3jdlr5GWy5d419i-rIIY
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--search-form-block._gJR7M41ylEdDk3P0bVuhJ4yr0 from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--search-form-block._gJR7M41ylEdDk3P0bVuhJ4yr0
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--system-branding-bl_XJmG1KpmUh59PEaMsnAVVsWnE from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--system-branding-bl_XJmG1KpmUh59PEaMsnAVVsWnE
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--system-menu-block._CJFJZRq97jWHjKPD-LY86go3U from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--system-menu-block._CJFJZRq97jWHjKPD-LY86go3U
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--system-menu-block._L0B4Xev-5f8RisZRr3shF-P-j from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--system-menu-block._L0B4Xev-5f8RisZRr3shF-P-j
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--system-messages-bl_Nz5b7reZLaPZ_w0Vis5CragGZ from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--system-messages-bl_Nz5b7reZLaPZ_w0Vis5CragGZ
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block.html.twig_MG-Ot3p8VCNrZ8q65sU_615LI from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block.html.twig_MG-Ot3p8VCNrZ8q65sU_615LI
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_feed-icon.html.twig_eNu1YT_VG6d1teHoTv2rJiBe_ from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_feed-icon.html.twig_eNu1YT_VG6d1teHoTv2rJiBe_
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_form--search-block-form.h_8NAUlv-a2iVoEySCHe8WQZuTK from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_form--search-block-form.h_8NAUlv-a2iVoEySCHe8WQZuTK
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_links.html.twig_nIdRA_dQ1jCWYDYbRXTWCFV1A from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_links.html.twig_nIdRA_dQ1jCWYDYbRXTWCFV1A
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_menu--toolbar.html.twig_G6fKyj9z1mZcpT_aTBFvFQF4c from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_menu--toolbar.html.twig_G6fKyj9z1mZcpT_aTBFvFQF4c
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_menu.html.twig_rNm3tTAWyV2DNrVnM3b45LVyB from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_menu.html.twig_rNm3tTAWyV2DNrVnM3b45LVyB
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_page-title.html.twig_JXTWNkgcxH224Jp5epx9quxuc from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_page-title.html.twig_JXTWNkgcxH224Jp5epx9quxuc
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_page-title.html.twig_YwVokwhoXckN6pfXgQBOhplJ3 from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_page-title.html.twig_YwVokwhoXckN6pfXgQBOhplJ3
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_page.html.twig_hfzWY6TycUihc9Tt3_NNbn6P6 from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_page.html.twig_hfzWY6TycUihc9Tt3_NNbn6P6
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_pager.html.twig_cny8htuX_9uitagfMTmNSCGbt from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_pager.html.twig_cny8htuX_9uitagfMTmNSCGbt
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_region--header.html.twig_PWPloFr26dyU1otB7Z3EZzJ87 from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_region--header.html.twig_PWPloFr26dyU1otB7Z3EZzJ87
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_region.html.twig_YzAfulkL1cU5nX_b3X-QdqTgS from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_region.html.twig_YzAfulkL1cU5nX_b3X-QdqTgS
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_toolbar.html.twig_nUs6k0EVPBja9EtQDeQeh0LZY from /app_sync to /host_sync
+[2019-09-24 22:39:59 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_toolbar.html.twig_nUs6k0EVPBja9EtQDeQeh0LZY
+[2019-09-24 22:39:59 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_views-view.html.twig_59DW2bJ4FZk64Y4aAYAdjwN_T from /app_sync to /host_sync
+[2019-09-24 22:40:00 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_views-view.html.twig_59DW2bJ4FZk64Y4aAYAdjwN_T
+[2019-09-24 22:40:00 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:39:59.04 on 24 Sep 2019
+[2019-09-24 22:40:00 +0100] Sync Log:  Synchronization complete at 22:39:59  (20 items transferred, 0 skipped, 0 failed)
+[2019-09-24 22:40:01 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:40:00.23 on 24 Sep 2019
+[2019-09-24 22:40:01 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css from /app_sync to /host_sync
+[2019-09-24 22:40:01 +0100] Sync Log:  [END] Copying web/sites/default/files/css
+[2019-09-24 22:40:01 +0100] Sync Log:  [BGN] Copying web/sites/default/files/js from /app_sync to /host_sync
+[2019-09-24 22:40:01 +0100] Sync Log:  [END] Copying web/sites/default/files/js
+[2019-09-24 22:40:01 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_status-messages.html.twig_6H-8dFYOb24Nybgxf9vxzmene from /app_sync to /host_sync
+[2019-09-24 22:40:01 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_status-messages.html.twig_6H-8dFYOb24Nybgxf9vxzmene
+[2019-09-24 22:40:01 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:40:00.35 on 24 Sep 2019
+[2019-09-24 22:40:01 +0100] Sync Log:  Synchronization complete at 22:40:00  (3 items transferred, 0 skipped, 0 failed)
+[2019-09-24 22:40:06 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:40:05.04 on 24 Sep 2019
+[2019-09-24 22:40:06 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_views-view-field.html.twi_TeW8A-DNzCDFjZ86RNPC-1amW from /app_sync to /host_sync
+[2019-09-24 22:40:06 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_views-view-field.html.twi_TeW8A-DNzCDFjZ86RNPC-1amW
+[2019-09-24 22:40:06 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:40:05.05 on 24 Sep 2019
+[2019-09-24 22:40:06 +0100] Sync Log:  Synchronization complete at 22:40:05  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:40:07 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:40:06.18 on 24 Sep 2019
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_2iG5QyulIFWqSe67d-uxcQkVqAIjOmOWZaseQ1m0_FI.css from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_2iG5QyulIFWqSe67d-uxcQkVqAIjOmOWZaseQ1m0_FI.css
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_2iG5QyulIFWqSe67d-uxcQkVqAIjOmOWZaseQ1m0_FI.css.gz from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_2iG5QyulIFWqSe67d-uxcQkVqAIjOmOWZaseQ1m0_FI.css.gz
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_OtDrwGZwVQl9GWbzCw04I587wrirUo7hTSRudOUrOrM.css from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_OtDrwGZwVQl9GWbzCw04I587wrirUo7hTSRudOUrOrM.css
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_OtDrwGZwVQl9GWbzCw04I587wrirUo7hTSRudOUrOrM.css.gz from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_OtDrwGZwVQl9GWbzCw04I587wrirUo7hTSRudOUrOrM.css.gz
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_s2gVvGwHkC5jgYp16OmzT68ectXmzY-ozrQSwEz4Ozg.css from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_s2gVvGwHkC5jgYp16OmzT68ectXmzY-ozrQSwEz4Ozg.css
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_s2gVvGwHkC5jgYp16OmzT68ectXmzY-ozrQSwEz4Ozg.css.gz from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_s2gVvGwHkC5jgYp16OmzT68ectXmzY-ozrQSwEz4Ozg.css.gz
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/js/js_paLM_XuBQ8yyEy8NpAApudkG-kgPbCUpTmKo9saKVDM.js from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/js/js_paLM_XuBQ8yyEy8NpAApudkG-kgPbCUpTmKo9saKVDM.js
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/js/js_paLM_XuBQ8yyEy8NpAApudkG-kgPbCUpTmKo9saKVDM.js.gz from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/js/js_paLM_XuBQ8yyEy8NpAApudkG-kgPbCUpTmKo9saKVDM.js.gz
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6___string_template__6a2704_I473YgNlSvMCwnEwZ9HAaPc17 from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6___string_template__6a2704_I473YgNlSvMCwnEwZ9HAaPc17
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6___string_template__d3e79b_dnLxnLLdN0n_x7PLH0toahbyK from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6___string_template__d3e79b_dnLxnLLdN0n_x7PLH0toahbyK
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--local-actions-bloc_y0oFjaqb5JSI6c82nMJZfAOAA from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--local-actions-bloc_y0oFjaqb5JSI6c82nMJZfAOAA
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--local-tasks-block._WvWYQ3NgFiDbYv2GDUqVFq6sf from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block--local-tasks-block._WvWYQ3NgFiDbYv2GDUqVFq6sf
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block.html.twig_CjcApvj66Z1NVS-CEG197zsaE from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block.html.twig_CjcApvj66Z1NVS-CEG197zsaE
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block.html.twig_g5QR8_7FfRmUtfp8RudAtQ4iw from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_block.html.twig_g5QR8_7FfRmUtfp8RudAtQ4iw
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_breadcrumb.html.twig_Y4tKhxgtJQAlwnfAtneZKoBvI from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_breadcrumb.html.twig_Y4tKhxgtJQAlwnfAtneZKoBvI
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_dropbutton-wrapper.html.t_WFUK6l8ntMGCPlx7HcToONo3X from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_dropbutton-wrapper.html.t_WFUK6l8ntMGCPlx7HcToONo3X
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_item-list.html.twig_Vin9ErizfYoAvsKjGla5xu-jb from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_item-list.html.twig_Vin9ErizfYoAvsKjGla5xu-jb
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_menu-local-action.html.tw__qYVjYSVdezXQ1P8mB-tjCSdQ from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_menu-local-action.html.tw__qYVjYSVdezXQ1P8mB-tjCSdQ
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_menu-local-task.html.twig_mB-gH610iFJdGL7qHMhCcoIh0 from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_menu-local-task.html.twig_mB-gH610iFJdGL7qHMhCcoIh0
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_menu-local-tasks.html.twi_0XeQO_wRdoclJ6qLZ1cgqhtyU from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_menu-local-tasks.html.twi_0XeQO_wRdoclJ6qLZ1cgqhtyU
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_page.html.twig_8z43TXnJDWHeudJ0ymVTovlSN from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_page.html.twig_8z43TXnJDWHeudJ0ymVTovlSN
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_tablesort-indicator.html._ngKz_f_RnYr4sRPYuM1A1pR6O from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_tablesort-indicator.html._ngKz_f_RnYr4sRPYuM1A1pR6O
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_username.html.twig_kfTBp7vnFp15n7LrTG9whXdC8 from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_username.html.twig_kfTBp7vnFp15n7LrTG9whXdC8
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_views-exposed-form.html.t_cWIvUDhJ2FbeiLxVETeEeGIZY from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_views-exposed-form.html.t_cWIvUDhJ2FbeiLxVETeEeGIZY
+[2019-09-24 22:40:07 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_views-view-table.html.twi_yYJrfC_byhDnJNbeTdusoWAKk from /app_sync to /host_sync
+[2019-09-24 22:40:07 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_views-view-table.html.twi_yYJrfC_byhDnJNbeTdusoWAKk
+[2019-09-24 22:40:07 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:40:06.38 on 24 Sep 2019
+[2019-09-24 22:40:07 +0100] Sync Log:  Synchronization complete at 22:40:06  (25 items transferred, 0 skipped, 0 failed)
+[2019-09-24 22:40:10 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:40:09.35 on 24 Sep 2019
+[2019-09-24 22:40:10 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_admin-page.html.twig_WM-Q3hR5NhpMg0w3Pw90HcbSV from /app_sync to /host_sync
+[2019-09-24 22:40:10 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_admin-page.html.twig_WM-Q3hR5NhpMg0w3Pw90HcbSV
+[2019-09-24 22:40:10 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:40:09.36 on 24 Sep 2019
+[2019-09-24 22:40:10 +0100] Sync Log:  Synchronization complete at 22:40:09  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:40:11 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:40:10.49 on 24 Sep 2019
+[2019-09-24 22:40:11 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css__pj188EA3_LGV6dMbcI4TEre2PXV_gdyvSjtOvtm4N4.css from /app_sync to /host_sync
+[2019-09-24 22:40:11 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css__pj188EA3_LGV6dMbcI4TEre2PXV_gdyvSjtOvtm4N4.css
+[2019-09-24 22:40:11 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css__pj188EA3_LGV6dMbcI4TEre2PXV_gdyvSjtOvtm4N4.css.gz from /app_sync to /host_sync
+[2019-09-24 22:40:11 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css__pj188EA3_LGV6dMbcI4TEre2PXV_gdyvSjtOvtm4N4.css.gz
+[2019-09-24 22:40:11 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_kJ5Frm2FNdGECI_0m84RLG5R-VMHAn73uY-S6dziFBY.css from /app_sync to /host_sync
+[2019-09-24 22:40:11 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_kJ5Frm2FNdGECI_0m84RLG5R-VMHAn73uY-S6dziFBY.css
+[2019-09-24 22:40:11 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_kJ5Frm2FNdGECI_0m84RLG5R-VMHAn73uY-S6dziFBY.css.gz from /app_sync to /host_sync
+[2019-09-24 22:40:11 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_kJ5Frm2FNdGECI_0m84RLG5R-VMHAn73uY-S6dziFBY.css.gz
+[2019-09-24 22:40:11 +0100] Sync Log:  [BGN] Copying web/sites/default/files/js/js_meO9LbnXJlkKxLUsdINP8d0j86TIwYvI5kGD3MLHJFo.js from /app_sync to /host_sync
+[2019-09-24 22:40:11 +0100] Sync Log:  [END] Copying web/sites/default/files/js/js_meO9LbnXJlkKxLUsdINP8d0j86TIwYvI5kGD3MLHJFo.js
+[2019-09-24 22:40:11 +0100] Sync Log:  [BGN] Copying web/sites/default/files/js/js_meO9LbnXJlkKxLUsdINP8d0j86TIwYvI5kGD3MLHJFo.js.gz from /app_sync to /host_sync
+[2019-09-24 22:40:11 +0100] Sync Log:  [END] Copying web/sites/default/files/js/js_meO9LbnXJlkKxLUsdINP8d0j86TIwYvI5kGD3MLHJFo.js.gz
+[2019-09-24 22:40:11 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_admin-block-content.html._MM5iAzeN0ZIEjeBfLOti1IBOi from /app_sync to /host_sync
+[2019-09-24 22:40:11 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_admin-block-content.html._MM5iAzeN0ZIEjeBfLOti1IBOi
+[2019-09-24 22:40:11 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_admin-block.html.twig_4rzxu0OaGxvjzwVLh1BZVwgHg from /app_sync to /host_sync
+[2019-09-24 22:40:11 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_admin-block.html.twig_4rzxu0OaGxvjzwVLh1BZVwgHg
+[2019-09-24 22:40:11 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:40:10.54 on 24 Sep 2019
+[2019-09-24 22:40:11 +0100] Sync Log:  Synchronization complete at 22:40:10  (8 items transferred, 0 skipped, 0 failed)
+[2019-09-24 22:40:47 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:40:46.28 on 24 Sep 2019
+[2019-09-24 22:40:47 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_IXsNJMuCru2213x2hSeWM83qJB_n6nw90IpRK9EJnDg.css from /app_sync to /host_sync
+[2019-09-24 22:40:47 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_IXsNJMuCru2213x2hSeWM83qJB_n6nw90IpRK9EJnDg.css
+[2019-09-24 22:40:47 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_IXsNJMuCru2213x2hSeWM83qJB_n6nw90IpRK9EJnDg.css.gz from /app_sync to /host_sync
+[2019-09-24 22:40:47 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_IXsNJMuCru2213x2hSeWM83qJB_n6nw90IpRK9EJnDg.css.gz
+[2019-09-24 22:40:47 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:40:46.29 on 24 Sep 2019
+[2019-09-24 22:40:47 +0100] Sync Log:  Synchronization complete at 22:40:46  (2 items transferred, 0 skipped, 0 failed)
+[2019-09-24 22:40:48 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:40:47.41 on 24 Sep 2019
+[2019-09-24 22:40:48 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_1ylUG_QdMLqQABe9SqR4yRRm0_GIIM0jXfcQWL5-eAw.css from /app_sync to /host_sync
+[2019-09-24 22:40:48 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_1ylUG_QdMLqQABe9SqR4yRRm0_GIIM0jXfcQWL5-eAw.css
+[2019-09-24 22:40:48 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_1ylUG_QdMLqQABe9SqR4yRRm0_GIIM0jXfcQWL5-eAw.css.gz from /app_sync to /host_sync
+[2019-09-24 22:40:48 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_1ylUG_QdMLqQABe9SqR4yRRm0_GIIM0jXfcQWL5-eAw.css.gz
+[2019-09-24 22:40:48 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:40:47.42 on 24 Sep 2019
+[2019-09-24 22:40:48 +0100] Sync Log:  Synchronization complete at 22:40:47  (2 items transferred, 0 skipped, 0 failed)
+[2019-09-24 22:54:31 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:54:30.75 on 24 Sep 2019
+[2019-09-24 22:54:31 +0100] Sync Log:  [BGN] Copying .README.md.swp from /app_sync to /host_sync
+[2019-09-24 22:54:31 +0100] Sync Log:  [END] Copying .README.md.swp
+[2019-09-24 22:54:31 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:54:30.76 on 24 Sep 2019
+[2019-09-24 22:54:31 +0100] Sync Log:  Synchronization complete at 22:54:30  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:54:38 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:54:37.98 on 24 Sep 2019
+[2019-09-24 22:54:38 +0100] Sync Log:  [BGN] Updating file .README.md.swp from /app_sync to /host_sync
+[2019-09-24 22:54:38 +0100] Sync Log:  [END] Updating file .README.md.swp
+[2019-09-24 22:54:38 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:54:37.99 on 24 Sep 2019
+[2019-09-24 22:54:38 +0100] Sync Log:  Synchronization complete at 22:54:38  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:54:40 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:54:40.13 on 24 Sep 2019
+[2019-09-24 22:54:40 +0100] Sync Log:  [BGN] Deleting .README.md.swp from /host_sync
+[2019-09-24 22:54:40 +0100] Sync Log:  [END] Deleting .README.md.swp
+[2019-09-24 22:54:40 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:54:40.14 on 24 Sep 2019
+[2019-09-24 22:54:40 +0100] Sync Log:  Synchronization complete at 22:54:40  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:54:41 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:54:41.26 on 24 Sep 2019
+[2019-09-24 22:54:41 +0100] Sync Log:  [BGN] Updating file README.md from /app_sync to /host_sync
+[2019-09-24 22:54:41 +0100] Sync Log:  [END] Updating file README.md
+[2019-09-24 22:54:41 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:54:41.27 on 24 Sep 2019
+[2019-09-24 22:54:41 +0100] Sync Log:  Synchronization complete at 22:54:41  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:54:49 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:54:48.77 on 24 Sep 2019
+[2019-09-24 22:54:49 +0100] Sync Log:  [BGN] Updating file README.md from /host_sync to /app_sync
+[2019-09-24 22:54:49 +0100] Sync Log:  [END] Updating file README.md
+[2019-09-24 22:54:49 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:54:48.78 on 24 Sep 2019
+[2019-09-24 22:54:49 +0100] Sync Log:  Synchronization complete at 22:54:48  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:54:54 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:54:53.84 on 24 Sep 2019
+[2019-09-24 22:54:54 +0100] Sync Log:  [BGN] Copying .README.md.swp from /app_sync to /host_sync
+[2019-09-24 22:54:54 +0100] Sync Log:  [END] Copying .README.md.swp
+[2019-09-24 22:54:54 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:54:53.85 on 24 Sep 2019
+[2019-09-24 22:54:54 +0100] Sync Log:  Synchronization complete at 22:54:53  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:54:56 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:54:55.97 on 24 Sep 2019
+[2019-09-24 22:54:56 +0100] Sync Log:  [BGN] Deleting .README.md.swp from /host_sync
+[2019-09-24 22:54:56 +0100] Sync Log:  [END] Deleting .README.md.swp
+[2019-09-24 22:54:56 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:54:55.98 on 24 Sep 2019
+[2019-09-24 22:54:56 +0100] Sync Log:  Synchronization complete at 22:54:56  (1 item transferred, 0 skipped, 0 failed)
+[2019-09-24 22:55:01 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:55:00.41 on 24 Sep 2019
+[2019-09-24 22:55:01 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_Q_VEX2vK14OLQ2r7Dhw3LtewABFdgUmUMcRQhhTZqtg.css from /app_sync to /host_sync
+[2019-09-24 22:55:01 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_Q_VEX2vK14OLQ2r7Dhw3LtewABFdgUmUMcRQhhTZqtg.css
+[2019-09-24 22:55:01 +0100] Sync Log:  [BGN] Copying web/sites/default/files/css/css_Q_VEX2vK14OLQ2r7Dhw3LtewABFdgUmUMcRQhhTZqtg.css.gz from /app_sync to /host_sync
+[2019-09-24 22:55:01 +0100] Sync Log:  [END] Copying web/sites/default/files/css/css_Q_VEX2vK14OLQ2r7Dhw3LtewABFdgUmUMcRQhhTZqtg.css.gz
+[2019-09-24 22:55:01 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:55:00.43 on 24 Sep 2019
+[2019-09-24 22:55:01 +0100] Sync Log:  Synchronization complete at 22:55:00  (2 items transferred, 0 skipped, 0 failed)
+[2019-09-24 22:55:02 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:55:01.55 on 24 Sep 2019
+[2019-09-24 22:55:02 +0100] Sync Log:  [BGN] Copying web/sites/default/files/js/js_y9d_Ozx_Kfy9pP78I5K4XtrQTp6GuOccHRlqCLvsU90.js from /app_sync to /host_sync
+[2019-09-24 22:55:02 +0100] Sync Log:  [END] Copying web/sites/default/files/js/js_y9d_Ozx_Kfy9pP78I5K4XtrQTp6GuOccHRlqCLvsU90.js
+[2019-09-24 22:55:02 +0100] Sync Log:  [BGN] Copying web/sites/default/files/js/js_y9d_Ozx_Kfy9pP78I5K4XtrQTp6GuOccHRlqCLvsU90.js.gz from /app_sync to /host_sync
+[2019-09-24 22:55:02 +0100] Sync Log:  [END] Copying web/sites/default/files/js/js_y9d_Ozx_Kfy9pP78I5K4XtrQTp6GuOccHRlqCLvsU90.js.gz
+[2019-09-24 22:55:02 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:55:01.57 on 24 Sep 2019
+[2019-09-24 22:55:02 +0100] Sync Log:  Synchronization complete at 22:55:01  (2 items transferred, 0 skipped, 0 failed)
+[2019-09-24 22:55:04 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) started propagating changes at 22:55:03.71 on 24 Sep 2019
+[2019-09-24 22:55:04 +0100] Sync Log:  [BGN] Copying web/sites/default/files/js/js_PJ30MxPyfUlKulQcZl1SMrDyqufzn5JXDOhnLHDt4Ts.js from /app_sync to /host_sync
+[2019-09-24 22:55:04 +0100] Sync Log:  [END] Copying web/sites/default/files/js/js_PJ30MxPyfUlKulQcZl1SMrDyqufzn5JXDOhnLHDt4Ts.js
+[2019-09-24 22:55:04 +0100] Sync Log:  [BGN] Copying web/sites/default/files/js/js_PJ30MxPyfUlKulQcZl1SMrDyqufzn5JXDOhnLHDt4Ts.js.gz from /app_sync to /host_sync
+[2019-09-24 22:55:04 +0100] Sync Log:  [END] Copying web/sites/default/files/js/js_PJ30MxPyfUlKulQcZl1SMrDyqufzn5JXDOhnLHDt4Ts.js.gz
+[2019-09-24 22:55:04 +0100] Sync Log:  [BGN] Copying web/sites/default/files/js/js_jSBBUat1VM-9yhozABOzv485toM6ZIX0DCorP2JhDPY.js from /app_sync to /host_sync
+[2019-09-24 22:55:04 +0100] Sync Log:  [END] Copying web/sites/default/files/js/js_jSBBUat1VM-9yhozABOzv485toM6ZIX0DCorP2JhDPY.js
+[2019-09-24 22:55:04 +0100] Sync Log:  [BGN] Copying web/sites/default/files/js/js_jSBBUat1VM-9yhozABOzv485toM6ZIX0DCorP2JhDPY.js.gz from /app_sync to /host_sync
+[2019-09-24 22:55:04 +0100] Sync Log:  [END] Copying web/sites/default/files/js/js_jSBBUat1VM-9yhozABOzv485toM6ZIX0DCorP2JhDPY.js.gz
+[2019-09-24 22:55:04 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_details.html.twig_HaDf8RwJmcizBG9v25WoZddMq from /app_sync to /host_sync
+[2019-09-24 22:55:04 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_details.html.twig_HaDf8RwJmcizBG9v25WoZddMq
+[2019-09-24 22:55:04 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_image.html.twig_0NyZ9XG3o4JoTONomXk7ewBgR from /app_sync to /host_sync
+[2019-09-24 22:55:04 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_image.html.twig_0NyZ9XG3o4JoTONomXk7ewBgR
+[2019-09-24 22:55:04 +0100] Sync Log:  [BGN] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_system-themes-page.html.t_WW1IQdqHaqiSLjyH83afUvu8_ from /app_sync to /host_sync
+[2019-09-24 22:55:04 +0100] Sync Log:  [END] Copying web/sites/default/files/php/twig/5d8a8cefe5eb6_system-themes-page.html.t_WW1IQdqHaqiSLjyH83afUvu8_
+[2019-09-24 22:55:04 +0100] Sync Log:  UNISON 2.51.2 (OCAML 4.06.1) finished propagating changes at 22:55:03.78 on 24 Sep 2019
+[2019-09-24 22:55:04 +0100] Sync Log:  Synchronization complete at 22:55:03  (7 items transferred, 0 skipped, 0 failed)
